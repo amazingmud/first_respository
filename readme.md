@@ -1,3 +1,9 @@
 # 第一个GitHub仓库
 
 - 防止GitHub主页太空，美化主页用
+
+Hi there 👋, I'm AmazingMud
+
+> 挖泥巴，挖出点有意思的东西。
+
+🌍 坐标上海 | 💻 写点 Python  | 🎮 间歇性摸鱼
